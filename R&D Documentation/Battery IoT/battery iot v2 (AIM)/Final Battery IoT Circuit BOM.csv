@@ -1,0 +1,12 @@
+S.No,Name,Designator,Footprint,Quantity
+1,LM2576T (Buck Converter IC),U5,TO-220-5L_L10.2-W4.5-P1.71-L,1
+2,L-11PHC 100µ (Inductor),U4,11PHC-RM5-12D,1
+3,ESP8266 D1 Mini (Controller board),U1,ESP8266 D1 MINI,1
+4,MCP2515 Can module (CAN transceiver),H1,HDR-F-2.54_1X8,1
+5,1N5822 (Schottky Diode),D2,DO-201AD_BD5.3-L8.4-P12.50-D1.4-RD,1
+6,103nF (Capacitor non-polar),C2,CAP-TH_L4.8-W3.2-P5.08-D0.5,1
+7,104nF (Capacitor non-polar),C6,CAP-TH_L4.8-W3.2-P5.08-D0.5,1
+8,470uF 50v (Capacitor polar),C3,CAP-TH_BD13.0-P5.00-D0.6-FD,1
+9,1000uF 50v,C4,CAP-TH_BD10.0-P5.00-D1.0-FD,1
+10,JST-XH 2.5mm 4p (4 pin crimp-shell Connector),P2,JST-XH 2.5MM 4P,1
+11,jst 6 Pin female connector,,,1

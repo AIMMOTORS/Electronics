@@ -1,0 +1,11 @@
+S.No,Name,Designator,Footprint,Quantity,Pins
+1,LM2596T-3.3 (Buck Converter IC),U6,TO-220-5L_L10.2-W4.5-P1.71-L,1,5
+2,L-11PHC 100µ (Inductor),U7,11PHC-RM5-12D,1,2
+3,ESP8266 D1 Mini (Controller board),U8,ESP8266 D1 MINI,1,16
+4,MCP2515 (CAN transceiver),H2,,1,7
+5,1N5822 (Schottky Diode),D3,DO-201AD_BD5.3-L8.4-P12.50-D1.4-RD,1,2
+6,0.1uF (Capacitor non-polar),"C7, C9",CAP-TH_L4.8-W3.2-P5.08-D0.5,2,2
+7,470uF (Capacitor polar),"C8, C10",CAP-TH_BD13.0-P5.00-D0.6-FD,1,2
+8,JST-XH 2.5mm 4p (4 pin crimp-shell Connector),P2,JST-XH 2.5MM 4P,1,4
+9,2.5mm plastic spacers for PCB,,,4,
+10,3.25mm spacers for MCP2515 module,,,4,
